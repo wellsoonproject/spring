@@ -4,7 +4,7 @@ title: It's Spring!
 image: spring
 ---
 
-<span class="caps" alt="W">elcome</span>, sweet season of delight,   
+<span class="caps" alt="G">elcome</span>, sweet season of delight,   
 What beauties charm the wond'ring sight   
 In thy enchanting reign!   
 How fresh descends the morning dew,   
