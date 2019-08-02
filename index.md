@@ -1,6 +1,6 @@
 ---
 layout: home
-title: It's Spring!
+title: wellsoon.nl
 ---
 
 {% for post in site.posts %}
