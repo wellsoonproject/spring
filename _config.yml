@@ -41,7 +41,7 @@ tagline: 'a better world is on the cards'
 keywords: ''
 description: 'a better world is on the cards'
 url: https://wellsoonproject.io
-baseurl: '/spring'
+baseurl: '/'
 assets: '/assets'
 images: '/images'
 logo: /ass/ets/apple-icon-144x144.png
