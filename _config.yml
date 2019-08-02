@@ -36,10 +36,10 @@ compress_html:
 dark_theme: false
 
 # Site meta
-title: It's Spring!
-tagline: 'A one-page, two-column Jekyll theme.'
-keywords: 'connor, baer, bear, designer, developer, design, code, jekyll, spring'
-description: 'A one-page, two-column Jekyll theme that pairs beautifully styled content with contextual media.'
+title: wellsoon
+tagline: 'a better world is on the cards'
+keywords: ''
+description: 'a better world is on the cards.'
 url: https://connor-baer.github.io
 baseurl: '/spring'
 assets: '/assets'
