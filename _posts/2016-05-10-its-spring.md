@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's Spring!
+title: wellsoon.nl
 image: spring
 ---
 
@@ -9,7 +9,7 @@ with Hallmark alone turning $4bn US in revenue in 2016.
 
 Imagine what we could do to improve the world with just a fraction of that money? 
 
-wellsoon is a social startup designed to turn the acts of gift-giving and well-wishing into a chance at a better world. 
+wellsoon.nl is a social startup designed to turn the acts of gift-giving and well-wishing into a chance at a better world. 
 
 We partner with independent creatives who design awesome cards.
 
